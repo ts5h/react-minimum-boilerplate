@@ -12,7 +12,7 @@ A React minimum practical boilerplate as of February 12, 2022.
 ## Basic Usage
 ### Install & Run
 ```shell
-$ git clone git@github.com:ts5h/react-minimum-boilerplate.git
+$ git clone git@github.com:ts5h/react-minimum-boilerplate.git your_project
 $ npm install
 $ npm run start
 ```
