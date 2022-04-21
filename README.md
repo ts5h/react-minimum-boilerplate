@@ -6,7 +6,7 @@ A React minimum practical boilerplate as of February 12, 2022.
 - eslint (airbnb + my preferences *1)
 - prettier (with my few preferences *2)
 
-*1 See `./.eslintrc.js`  
+*1 See `./.eslintrc`  
 *2 See `./.prettierrc`
 
 ## Basic Usage
