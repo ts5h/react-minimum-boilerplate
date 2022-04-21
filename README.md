@@ -7,7 +7,7 @@ A React minimum practical boilerplate as of February 12, 2022.
 - prettier (with my few preferences *2)
 
 *1 See `./.eslintrc.js`  
-*2 See `./.prettierrc.js`
+*2 See `./.prettierrc`
 
 ## Basic Usage
 ### Install & Run
