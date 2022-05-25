@@ -1,6 +1,6 @@
 # React Minimum Boilerplate
 A React minimum practical boilerplate as of May 25, 2022.
-- react-create-app
+- create-react-app
 - typescript
 - sass (dart-sass)
 - eslint (airbnb + my preferences *1)
