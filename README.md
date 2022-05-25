@@ -1,5 +1,5 @@
 # React Minimum Boilerplate
-A React minimum practical boilerplate as of February 12, 2022.
+A React minimum practical boilerplate as of May 25, 2022.
 - react-create-app
 - typescript
 - sass (dart-sass)
