@@ -1,10 +1,10 @@
 # React Minimum Boilerplate
-A React minimum practical boilerplate as of January 30, 2024.
+A React minimum practical boilerplate as of March 29, 2024.
 - create-react-app
 - typescript
 - sass (dart-sass)
-- eslint (airbnb + my preferences *1)
-- prettier (with my few preferences *2)
+- eslint (with my preferences *1)
+- prettier (with my preferences *2)
 
 *1 See `./.eslintrc`  
 *2 See `./.prettierrc`
