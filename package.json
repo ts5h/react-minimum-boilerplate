@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^6.6.2",
-    "@testing-library/react": "^16.0.1",
-    "@testing-library/user-event": "^14.5.2",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.7.9",
     "@types/react": "^18.3.12",
@@ -68,18 +65,11 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@typescript-eslint/eslint-plugin": "^8.11.0",
-    "@typescript-eslint/parser": "^8.11.0",
-    "eslint": "^8.57.0",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-jsx-a11y": "^6.10.1",
-    "eslint-plugin-react": "^7.37.2",
-    "eslint-plugin-react-hooks": "^5.0.0",
+    "@testing-library/jest-dom": "^6.6.2",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
     "husky": "^9.1.6",
     "lint-staged": "^15.2.10",
-    "prettier": "^3.3.3",
     "sass": "^1.80.4"
   }
 }

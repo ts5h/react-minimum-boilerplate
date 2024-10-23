@@ -19,7 +19,9 @@
   },
   "plugins": [
     "react",
-    "@typescript-eslint"
+    "react-hooks",
+    "@typescript-eslint",
+    "import"
   ],
   "ignorePatterns": [ ".eslintrc.js" ],
   "rules": {
