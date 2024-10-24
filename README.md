@@ -1,3 +1,5 @@
+### **!!This repository will no longer be maintained!!**
+
 # React Minimum Boilerplate
 A React minimum practical boilerplate as of October 24, 2024.
 - create-react-app
